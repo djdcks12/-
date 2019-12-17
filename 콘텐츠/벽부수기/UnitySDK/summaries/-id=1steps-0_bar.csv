@@ -1,0 +1,9 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+bar,0.899,16.310,12.965,10297,0.710
+bar,0.923,30.949,12.058,10261,2.973
+bar,0.929,45.624,12.136,10256,2.027
+bar,0.944,61.434,13.188,10280,1.579
+bar,0.771,76.169,12.437,10274,4.726
+bar,0.727,86.318,7.995,10350,1.853
+bar,0.708,96.027,7.746,10255,2.804
+bar,0.812,106.087,7.849,10300,2.562
